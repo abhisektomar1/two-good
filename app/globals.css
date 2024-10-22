@@ -1,6 +1,8 @@
+@import 'locomotive-scroll/dist/locomotive-scroll.css';
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 
 
 @font-face {
